@@ -7,4 +7,4 @@ udpdemo中包含client和server程序
 ##反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件(mjrao#foxmail.com, 把#换成@)
+* 邮件(mjrao520#gmail.com, 把#换成@)
