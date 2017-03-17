@@ -1,6 +1,7 @@
-##功能
+## 功能
+A tools
 
-udpdemo中包含client和server程序
+src 中包含client和server程序
 通过运行client程序能够发现局域网内的设备
 
 ## 编译
